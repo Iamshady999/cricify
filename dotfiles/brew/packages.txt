@@ -102,6 +102,7 @@ rubberband
 ruby-install
 screenresolution
 sdl2
+skhd
 snappy
 speedtest-cli
 speex
@@ -119,6 +120,7 @@ x265
 xorgproto
 xvid
 xz
+yabai
 youtube-dl
 zeromq
 zimg
