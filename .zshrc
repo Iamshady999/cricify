@@ -86,6 +86,7 @@ zsh-syntax-highlighting
 autojump
 zsh-history-substring-search
 sysadmin-util
+web-search
 )
 
 source $ZSH/oh-my-zsh.sh
