@@ -117,7 +117,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 
-source ~/dotfiles/configs/aliases_mac.sh
+source ~/dotfiles/macOS/configs/aliases_mac.sh
 
 
 # Virtualenvwrapper configuration
