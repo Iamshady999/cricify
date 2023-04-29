@@ -7,3 +7,6 @@ pip3 install virtualenv virtualenvwrapper
 
 # Create a directory for virtualenvs
 mkdir ~/.virtualenvs
+
+echo "Created ~/.virtualenvs directory"
+echo "===Virtualenvwrapper installed==="

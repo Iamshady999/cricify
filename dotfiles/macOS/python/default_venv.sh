@@ -14,4 +14,4 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplot
 
 deactivate
 
-echo "===Done==="
+echo "===DONE (default venv created and set up)==="
