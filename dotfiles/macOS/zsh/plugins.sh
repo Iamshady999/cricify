@@ -16,10 +16,6 @@ git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM
 git clone https://github.com/skx/sysadmin-util.git ~/.oh-my-zsh/custom/plugins/sysadmin-util
 
 
-# echo "Add all of these to the plugins tuple in .zshrc"
-# echo "extract"
-# echo "zsh-autosuggestions"
-# echo "zsh-syntax-highlighting"
-# echo "autojump"
-# echo "zsh-history-substring-search"
-# echo "sysadmin-util"
+echo "===Installing all required oh-my-zsh plugins=== DONE"
+
+echo "RUN: `p10k configure` to configure powerlevel10k theme"
