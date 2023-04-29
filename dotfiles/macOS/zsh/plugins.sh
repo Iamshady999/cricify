@@ -1,3 +1,8 @@
+echo "===Installing all required oh-my-zsh plugins==="
+
+# Install Powerlevel10k Theme for Oh My Zsh
+git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+
 # Install zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
