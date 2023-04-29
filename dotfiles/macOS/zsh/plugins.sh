@@ -19,3 +19,5 @@ git clone https://github.com/skx/sysadmin-util.git ~/.oh-my-zsh/custom/plugins/s
 echo "===Installing all required oh-my-zsh plugins=== DONE"
 
 echo "RUN: `p10k configure` to configure powerlevel10k theme"
+echo "Checkout iTerm2 color presets here: https://iterm2colorschemes.com/"
+echo "Or this one: https://github.com/josean-dev/dev-environment-files/blob/main/coolnight.itermcolors
