@@ -30,3 +30,8 @@ dotfiles config --local status.showUntrackedFiles no
 dotfiles remote add origin git@github.com:asheeshcric/cricify.git
 dotfiles pull
 ```
+
+### 3. Run the installation setup script
+```
+source ~/dotfiles/macOS/main.sh
+```
