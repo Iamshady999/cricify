@@ -130,5 +130,6 @@ cheatsheet
 discord
 firefox
 iterm2
+raycast
 shottr
 skitch
