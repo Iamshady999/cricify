@@ -89,6 +89,13 @@ sysadmin-util
 web-search
 )
 
+# Add custom websites for web-search plugin
+ZSH_WEB_SEARCH_ENGINES=(
+	reddit "https://www.reddit.com/search/?q="
+	amazon "https://www.amazon.com/s?k="
+)
+
+
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
