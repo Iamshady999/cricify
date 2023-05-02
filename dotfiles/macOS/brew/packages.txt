@@ -55,6 +55,7 @@ libsndfile
 libsodium
 libsoxr
 libtasn1
+libtermkey
 libtiff
 libtool
 libunibreak
@@ -64,6 +65,7 @@ libvidstab
 libvmaf
 libvorbis
 libvpx
+libvterm
 libx11
 libxau
 libxcb
@@ -72,14 +74,18 @@ libxext
 libxrender
 libyaml
 little-cms2
+luajit
+luv
 lz4
 lzo
 m4
 mbedtls
 mpdecimal
 mpg123
+msgpack
 ncurses
 neofetch
+neovim
 nettle
 node
 opencore-amr
@@ -112,7 +118,9 @@ svt-av1
 tesseract
 thefuck
 theora
+tree-sitter
 unbound
+unibilium
 webp
 wimlib
 x264
@@ -130,6 +138,5 @@ cheatsheet
 discord
 firefox
 iterm2
-raycast
 shottr
 skitch
