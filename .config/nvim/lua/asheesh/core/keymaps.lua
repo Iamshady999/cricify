@@ -35,3 +35,4 @@ keymap.set("n", "<leader>tp", ":tabp<CR>") --  go to previous tab
 
 -- vim-maximizer
 keymap.set("n", "<leader>sm", ":MaximizerToggle<CR>") -- maximize current window
+
