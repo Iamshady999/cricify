@@ -34,7 +34,8 @@ yabai -m mouse_drop_action swap
 yabai -m rule --add app="^Google Chrome$" space=^1
 yabai -m rule --add app="^iTerm2$" space=^2
 yabai -m rule --add app="^Code$" space=^3
-yabai -m rule --add app="^Photo Booth$" space=^4
+yabai -m rule --add app="^Finder$" space=^4
+yabai -m rule --add app="^Photo Booth$" space=^5
 
 # Disable specific apps from being managed by yabai
 yabai -m rule --add app="^System Settings$" manage=off
