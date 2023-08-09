@@ -5,7 +5,7 @@ alias dotfiles="git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
 alias update="sbrew update"s
 alias upgrade="sbrew upgrade"s
 # alias fuckoff='sudo shutdown -h now'
-alias fuckoff="osascript -e \'tell app \"System Events\" to shut down\'"
+alias fuckoff="osascript -e 'tell app \"System Events\" to shut down'"
 
 # Python aliases
 alias python=python3
