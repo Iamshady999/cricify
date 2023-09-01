@@ -2,8 +2,8 @@
 alias dotfiles="git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
 
 # Basics
-alias update="sbrew update"s
-alias upgrade="sbrew upgrade"s
+alias update="brew update"
+alias upgrade="brew upgrade"
 # alias fuckoff='sudo shutdown -h now'
 alias fuckoff="osascript -e 'tell app \"System Events\" to shut down'"
 
