@@ -9,6 +9,6 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 echo "===Installing all my brew packages==="
 
-brew install $(cat "$SCRIPT_DIR/brew-packages.txt")
+brew install $(cat "$SCRIPT_DIR/packages.txt")
 
 echo "===DONE installing brew packages==="
