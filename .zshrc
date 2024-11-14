@@ -129,9 +129,9 @@ source ~/dotfiles/macOS/configs/aliases_mac.sh
 
 
 # Virtualenvwrapper configuration
-export WORKON_HOME=~/.virtualenvs
-VIRTUALENVWRAPPER_PYTHON=`which python3`
-source $(which virtualenvwrapper.sh)
+#export WORKON_HOME=~/.virtualenvs
+#VIRTUALENVWRAPPER_PYTHON=`which python3`
+#source $(which virtualenvwrapper.sh)
 
 eval 
             fuck () {
@@ -152,9 +152,9 @@ eval
             }
 
 # Ruby configs
-source /opt/homebrew/opt/chruby/share/chruby/chruby.sh
-source /opt/homebrew/opt/chruby/share/chruby/auto.sh
-chruby ruby-3.1.3
+# source /opt/homebrew/opt/chruby/share/chruby/chruby.sh
+# source /opt/homebrew/opt/chruby/share/chruby/auto.sh
+# chruby ruby-3.1.3
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
