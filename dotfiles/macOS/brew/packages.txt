@@ -132,9 +132,7 @@ zeromq
 zimg
 zstd
 alfred
-cheatsheet
 discord
 firefox
 iterm2
 shottr
-skitch
